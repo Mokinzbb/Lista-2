@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1555585586 source:c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad2\main.cpp
+	<iostream>
+	"point2d.hpp"
+
+1555474245 c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad2\point2d.cpp
+	"point2d.hpp"
+	<iostream>
+	<cmath>
+
+1555439506 c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad2\point2d.hpp
+	<iostream>
+
+1555483679 source:c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad2\point2d.cpp
+	"point2d.hpp"
+	<iostream>
+	<cmath>
+

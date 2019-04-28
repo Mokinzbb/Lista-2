@@ -1,0 +1,13 @@
+C:\Users\zolic_gecv9xe\OneDrive\Pulpit\Lista 2\zad1\main.cpp: In function 'bool match(const string&, const string&)':
+C:\Users\zolic_gecv9xe\OneDrive\Pulpit\Lista 2\zad1\main.cpp:19:25: error: 'j' was not declared in this scope
+         else if(pattern[j] != '*')
+                         ^
+C:\Users\zolic_gecv9xe\OneDrive\Pulpit\Lista 2\zad1\main.cpp:22:16: error: expected '(' before 'pattern'
+             if pattern[j] == pattern[i];
+                ^~~~~~~
+C:\Users\zolic_gecv9xe\OneDrive\Pulpit\Lista 2\zad1\main.cpp:23:13: error: break statement not within loop or switch
+             break;
+             ^~~~~
+C:\Users\zolic_gecv9xe\OneDrive\Pulpit\Lista 2\zad1\main.cpp:26:13: error: 'else' without a previous 'if'
+             else return true;
+             ^~~~

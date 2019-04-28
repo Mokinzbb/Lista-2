@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555454471 source:c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad3\tictactoe.cpp
+	<iostream>
+
+1555475138 source:c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad3\main.cpp
+	"TicTacToe.h"
+
+1555454471 c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad3\tictactoe.cpp
+	<iostream>
+
+1555474874 c:\users\zolic_gecv9xe\onedrive\pulpit\lista 2\zad3\tictactoe.h
+	<iostream>
+
